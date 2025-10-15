@@ -1,0 +1,9 @@
+# Mo ta tinh nang moi (Feature A)
+
+- **He thong thong bao real-time:** [He thong thong bao real-time.] 
+- **Muc tieu:** Giup nguoi dung nhan thong tin cap nhat ngay lap tuc khi co su kien moi.
+- **Cac buoc thuc hien:**
+    1. tich hop Firebase Cloud Messaging.
+    2. Thiet lap server push thong bao tu backend.
+    3. Hien thi popup thong bao tren giao dien nguoi dung.
+- **Trang thai hien tai:** Da hoan thanh giai doan tich hop ban dau, dang test noi bo.
