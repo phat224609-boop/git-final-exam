@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình Python
 - Sử dụng Git
 - Làm việc nhóm
+
+Kế hoạch học tập:
+- Ôn lại kiến thức Git cơ bản.
+- Thực hành các thao tác như commit, push, pull.
+- Tìm hiểu về branching và merge.
+- Áp dụng Git vào dự án nhóm.
+- Theo dõi tiến độ học tập bằng Git log.
