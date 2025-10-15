@@ -1,0 +1,3 @@
+- Git la cong cu quan ly phien ban manh me va can thiet.
+- Toi cam thay viec hieu ve Staging Area rat quan trong.
+- Hoc cach lam viec voi branch giup du an co to chuc hon.
