@@ -20,3 +20,4 @@ Kế hoạch học tập:
 - Tìm hiểu về branching và merge.
 - Áp dụng Git vào dự án nhóm.
 - Theo dõi tiến độ học tập bằng Git log.
+- Học bài Anh văn
