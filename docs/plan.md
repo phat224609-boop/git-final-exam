@@ -25,8 +25,18 @@
 ## Ngay 7:
 - Tong ket tuan, len ke hoach cho tuan tiep theo (2 tieng).
 - Danh gia ket qua.
+<<<<<<< Updated upstream
 
 ## Nhat ky cong viec - Ngay 8
 - Hoan thanh lap trinh module A.
 - Bat dau kiem thu tinh nang B.
 - Gap go doi tac.
+=======
+## Nhat ky cong viec - Ngay 8
+- Hoan thanh lap trinh module A.
+- Bat dau kiem thu tinh nang B.
+- Gap go doi tac.
+## Muc tieu ngan han
+- Doc xong tai lieu X.
+- Cai dat moi truong Y.
+>>>>>>> Stashed changes
